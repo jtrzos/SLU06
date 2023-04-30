@@ -4,3 +4,4 @@ cereal
 butter
 butter
 eggs
+toilet paper
