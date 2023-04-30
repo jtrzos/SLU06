@@ -3,3 +3,4 @@ bread
 cereal
 butter
 butter
+eggs
